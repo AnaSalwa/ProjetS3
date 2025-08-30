@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+
+    .password-eye {
+        cursor: pointer;
+        background: url('path/to/your-eye-icon.png') center/contain no-repeat;
+        width: 20px;
+        height: 20px;
+    }
+
+    .password-eye-off {
+        background: url('path/to/your-eye-off-icon.png') center/contain no-repeat;
+    }
+
